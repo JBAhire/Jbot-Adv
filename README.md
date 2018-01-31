@@ -6,7 +6,7 @@ This is a python based chatbot created using aiml.
 
 ## Installation
 
-1. Clone and navigate to chatbot directory.
+1. Clone and navigate to Jbot directory.
 
 2. Install the required packages.
     ```bash
@@ -19,5 +19,5 @@ This is a python based chatbot created using aiml.
     ```
 4. Open **http://127.0.0.1:5000** in your browser.
 
-5. You're done and let's chat with your Robot via browser.
+5. You're done and let's chat with your Jbot via browser.
 
